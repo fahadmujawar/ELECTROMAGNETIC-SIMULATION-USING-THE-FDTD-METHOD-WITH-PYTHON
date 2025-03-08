@@ -7,7 +7,6 @@ Welcome to the Electromagnetic Simulation project! This repository showcases sim
 - [Getting Started](#getting-started)
 - [Simulations](#simulations)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -19,8 +18,22 @@ To run the simulations, ensure you have the following installed:
 - Python 3.x
 - NumPy
 
+## Simulations
+The project consists of the following simulations:
+
+1D Simulation - Simulating wave propagation in a one-dimensional space.
+
+2D Simulation - Simulating wave interactions in a two-dimensional plane.
+
+3D Simulation - Exploring complex wave dynamics in a three-dimensional environment.
+
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
 ### Installation
 Clone the repository to your local machine:
 ```sh
 git clone https://github.com/fahadmujawar/ELECTROMAGNETIC-SIMULATION-USING-THE-FDTD-METHOD-WITH-PYTHON.git
 cd ELECTROMAGNETIC-SIMULATION-USING-THE-FDTD-METHOD-WITH-PYTHON
+```
+
